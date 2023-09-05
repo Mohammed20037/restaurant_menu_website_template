@@ -45,8 +45,8 @@ The CSS styles for both pages are embedded within the HTML files for simplicity.
 
 **Our Story Page:**
 
-![Our Story Page](!(https://github.com/Mohammed20037/restaurant_website_template/assets/113844625/dff2dea3-952f-402f-aeb5-4d8e8df4e6dd))
 
+![Alt text](https://github.com/Mohammed20037/restaurant_website_template/assets/113844625/dff2dea3-952f-402f-aeb5-4d8e8df4e6dd)
 ## Getting Started
 
 To use this template, follow these steps:

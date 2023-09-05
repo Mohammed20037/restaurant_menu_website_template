@@ -39,13 +39,13 @@ The CSS styles for both pages are embedded within the HTML files for simplicity.
 
 **Home Page:**
 
-![Home Page](![image](https://github.com/Mohammed20037/restaurant_website_template/assets/113844625/f824325a-1d92-455c-be7f-403ecb6f16bb))
+![Home Page](!(https://github.com/Mohammed20037/restaurant_website_template/assets/113844625/f824325a-1d92-455c-be7f-403ecb6f16bb))
 
-![Our Story Page](![image](https://github.com/Mohammed20037/restaurant_website_template/assets/113844625/a43fcdec-43f2-4596-ad7b-b37c987d538f))
+![Our Story Page](!(https://github.com/Mohammed20037/restaurant_website_template/assets/113844625/a43fcdec-43f2-4596-ad7b-b37c987d538f))
 
 **Our Story Page:**
 
-![Our Story Page](![image](https://github.com/Mohammed20037/restaurant_website_template/assets/113844625/dff2dea3-952f-402f-aeb5-4d8e8df4e6dd))
+![Our Story Page](!(https://github.com/Mohammed20037/restaurant_website_template/assets/113844625/dff2dea3-952f-402f-aeb5-4d8e8df4e6dd))
 
 ## Getting Started
 

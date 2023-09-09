@@ -1,4 +1,4 @@
-# Restaurant Website Template
+# Restaurant Menu Website Template
 
 This repository contains code for a restaurant website template. This template is designed to create an engaging and visually appealing website for a restaurant. Below, you'll find information about the code structure, features, and how to use this template.
 
